@@ -1,0 +1,222 @@
+Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\proma\Desktop\Ressources\Objets 3D\Lampe\
+	Python World class constructor completed
+	processing begun of mesh:  Cube
+		processing begun of material:  Material
+		num positions      :  30
+		num normals        :  30
+		num tangents       :  0
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  glass
+		processing begun of material:  default
+		Custom split normals with tangents being used
+		num positions      :  3356
+		num normals        :  3356
+		num tangents       :  13424
+		num uvs            :  6712
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  18288
+	processing begun of mesh:  Innglass
+		processing begun of material:  default
+		registered as also a user of material:  default
+		Custom split normals with tangents being used
+		num positions      :  3987
+		num normals        :  3987
+		num tangents       :  15948
+		num uvs            :  7974
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  8910
+	processing begun of mesh:  unten
+		processing begun of material:  default
+		registered as also a user of material:  default
+		Custom split normals with tangents being used
+		num positions      :  7272
+		num normals        :  7272
+		num tangents       :  29088
+		num uvs            :  14544
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  13764
+	processing begun of mesh:  boden
+		processing begun of material:  default
+		registered as also a user of material:  default
+		Custom split normals with tangents being used
+		num positions      :  366
+		num normals        :  366
+		num tangents       :  1464
+		num uvs            :  732
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  441
+	processing begun of mesh:  gl_h_draht
+		processing begun of material:  default
+		registered as also a user of material:  default
+		Custom split normals with tangents being used
+		num positions      :  1262
+		num normals        :  1262
+		num tangents       :  5048
+		num uvs            :  2524
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  5472
+	processing begun of mesh:  draht5
+		processing begun of material:  default
+		registered as also a user of material:  default
+		Custom split normals with tangents being used
+		num positions      :  1793
+		num normals        :  1793
+		num tangents       :  7172
+		num uvs            :  3586
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2700
+	processing begun of mesh:  st_be
+		processing begun of material:  default
+		registered as also a user of material:  default
+		Custom split normals with tangents being used
+		num positions      :  698
+		num normals        :  698
+		num tangents       :  2792
+		num uvs            :  1396
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  984
+	processing begun of mesh:  Alt_Tel
+		processing begun of material:  Mat.3
+			processing texture Kumas_009
+				WARNING: Exception during copy:
+					[Errno 2] No such file or directory: 'çalışmalar\\Projeler\\Textures\\Kumas-009.jpeg'
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		Custom split normals with tangents being used
+		num positions      :  808
+		num normals        :  808
+		num tangents       :  3232
+		num uvs            :  1616
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3888
+	processing begun of mesh:  Ust_Tel
+		processing begun of material:  Mat.3
+		registered as also a user of material:  Mat.3
+		Custom split normals with tangents being used
+		num positions      :  808
+		num normals        :  808
+		num tangents       :  3232
+		num uvs            :  1616
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3888
+	processing begun of mesh:  Şapka
+		processing begun of material:  Mat.3
+		registered as also a user of material:  Mat.3
+		Custom split normals with tangents being used
+		num positions      :  348
+		num normals        :  348
+		num tangents       :  1392
+		num uvs            :  696
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1728
+	processing begun of mesh:  Lale
+		processing begun of material:  Chrome
+		Custom split normals with tangents being used
+		num positions      :  539
+		num normals        :  539
+		num tangents       :  2156
+		num uvs            :  1078
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2592
+	processing begun of mesh:  Boru_Kapağı.1
+		processing begun of material:  Chrome
+		registered as also a user of material:  Chrome
+		Custom split normals with tangents being used
+		num positions      :  601
+		num normals        :  601
+		num tangents       :  2404
+		num uvs            :  1202
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2376
+	processing begun of mesh:  Boru
+		processing begun of material:  Chrome
+		registered as also a user of material:  Chrome
+		Custom split normals with tangents being used
+		num positions      :  255
+		num normals        :  255
+		num tangents       :  1020
+		num uvs            :  510
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  432
+	processing begun of mesh:  Boru_Kapağı
+		processing begun of material:  Chrome
+		registered as also a user of material:  Chrome
+		Custom split normals with tangents being used
+		num positions      :  596
+		num normals        :  596
+		num tangents       :  2384
+		num uvs            :  1192
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2376
+	processing begun of mesh:  Pul
+		processing begun of material:  Chrome
+		registered as also a user of material:  Chrome
+		Custom split normals with tangents being used
+		num positions      :  594
+		num normals        :  594
+		num tangents       :  2376
+		num uvs            :  1188
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2376
+	processing begun of mesh:  Polyester
+		processing begun of material:  default
+		registered as also a user of material:  default
+		Custom split normals with tangents being used
+		num positions      :  12124
+		num normals        :  12124
+		num tangents       :  48496
+		num uvs            :  24248
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  58320
+	processing begun of light (POINT):  Light
+========= Writing of JSON file started =========
+	writing mesh:  Cube
+	writing mesh:  glass
+	writing mesh:  Innglass
+	writing mesh:  unten
+	writing mesh:  boden
+	writing mesh:  gl_h_draht
+	writing mesh:  draht5
+	writing mesh:  st_be
+	writing mesh:  Alt_Tel
+	writing mesh:  Ust_Tel
+	writing mesh:  Şapka
+	writing mesh:  Lale
+	writing mesh:  Boru_Kapağı.1
+	writing mesh:  Boru
+	writing mesh:  Boru_Kapağı
+	writing mesh:  Pul
+	writing mesh:  Polyester
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 5.0857 secs

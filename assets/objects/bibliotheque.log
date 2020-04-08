@@ -1,0 +1,48 @@
+Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\proma\Desktop\Ressources\Objets 3D\bibliothèque\
+	Python World class constructor completed
+	processing begun of mesh:  Cube
+		processing begun of material:  Material
+		num positions      :  30
+		num normals        :  30
+		num tangents       :  0
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  20359_Cabinet_Bookcase_v1_Texture
+		processing begun of material:  20359_Cabinet_Bookcase
+			processing texture Cabinet_Bookcase_bump_20359
+				WARNING: Exception during copy:
+					[Errno 2] No such file or directory: '20359_Cabinet_Bookcase_bump.jpg'
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture Cabinet_Bookcase_reflect_20359
+				WARNING: Exception during copy:
+					[Errno 2] No such file or directory: '20359_Cabinet_Bookcase_reflect.jpg'
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		Custom split normals with tangents being used
+		num positions      :  53167
+		num normals        :  53167
+		num tangents       :  212668
+		num uvs            :  106334
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  220224
+	processing begun of light (POINT):  Light
+========= Writing of JSON file started =========
+	writing mesh:  Cube
+	writing mesh:  20359_Cabinet_Bookcase_v1_Texture
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 9.0052 secs
